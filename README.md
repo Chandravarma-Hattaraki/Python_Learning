@@ -1,4 +1,4 @@
-**About Python repository**
+**About repository**
 
 This repository is contains programs specifically designed for individuals who are in the process of learning Python. 
 The programs within the repository are intended to provide practice opportunities for those learning Python programming. 
