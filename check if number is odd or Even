@@ -4,3 +4,4 @@ if Num % 2 == 0:
 else: 
     print("This is Odd Number")
     
+
