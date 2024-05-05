@@ -1,0 +1,6 @@
+Name=(input("enter Admin Name :"))
+if Name=='chandravarma' or Name=='cv' : 
+    print(Name, "Authorized")
+else:
+    print(Name,"Not authorized")
+    
