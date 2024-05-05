@@ -4,3 +4,4 @@ if Gender=="Male" or Gender=="male":
     print(Name, "is Male")
 else:
     print(Name,"is  Female")
+
