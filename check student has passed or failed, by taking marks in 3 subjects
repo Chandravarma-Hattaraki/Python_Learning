@@ -1,0 +1,8 @@
+math=int(input("enter maths marks :"))
+phy=int(input("enter physics marks:"))
+chem=int(input("enter chemestry marks :"))
+if math>=45 and phy>=45 and chem>=45 : 
+    print("passed")
+else:
+    print("Failed")
+    
