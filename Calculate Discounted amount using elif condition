@@ -13,7 +13,6 @@ print("discounted amount is: ", discounted)
 
 
 '''
-Calculate Discounted amount
 Discount Details 
 amount <1000  discount is 10%
 amount >1000 and <=5000 discount is 20%
