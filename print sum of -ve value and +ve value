@@ -1,0 +1,13 @@
+num=int(input("enter number of number: "))
+psum=0
+nsum=0
+count=0
+while count<num: 
+    n=int(input("enter a number: "))
+    if n>0:
+        psum=psum+n
+    else: 
+        nsum=nsum+n
+    count=count+1
+print("Negtive sum is: ", nsum)
+print("Positive sum is: ", psum)
