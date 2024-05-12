@@ -1,0 +1,9 @@
+num=int(input("enter number of number: "))
+max=int(input("enter number: "))
+count=0
+while count<num-1: 
+    n=int(input("enter a number: "))
+    if n>max:
+        max=n
+    count=count+1
+print("maximum number of given number is: ", max)
