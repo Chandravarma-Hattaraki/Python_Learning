@@ -1,4 +1,4 @@
-num=int(input("enter number of number: "))
+num=int(input("How may time you want to enter number?: "))
 psum=0
 nsum=0
 count=0
