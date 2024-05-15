@@ -1,6 +1,5 @@
 n=10
 count=1
 while count<=10:
-#for count in range (11):
     print(n,"X",count,'=',(n*count))
     count= count+1
