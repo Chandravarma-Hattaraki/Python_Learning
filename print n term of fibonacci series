@@ -1,8 +1,0 @@
-n=int(input("enter initial Term : "))
-a=0
-b=1
-for f in range(n):
-    print(a)
-    c=a+b  
-    a=b
-    b=c 
