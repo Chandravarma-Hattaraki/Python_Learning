@@ -1,9 +1,0 @@
-
-num=int(input("enter number of number: "))
-sum=0
-count=0
-while count<num: 
-    n=int(input("enter a number: "))
-    sum=sum+n
-    count=count+1
-print(sum)
