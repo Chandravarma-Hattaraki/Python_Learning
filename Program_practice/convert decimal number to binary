@@ -1,0 +1,11 @@
+n=int(input("enter number of number: "))
+m=n
+bin=''
+while n>0: 
+    r=n%2
+    n=n//2
+    bin=str(r)+bin
+print("binary number of",m, "is", bin)
+    
+
+
