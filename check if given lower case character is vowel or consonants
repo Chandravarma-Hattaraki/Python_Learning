@@ -1,5 +1,0 @@
-Char=(input("enter lower case charecter: "))
-if Char in ('a', 'e' , 'i' , 'o' , 'u'):
-    print("charecter",Char, "is vowel")
-else:
-    print("charecter",Char, "is consonants")
